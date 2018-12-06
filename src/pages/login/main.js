@@ -16,17 +16,17 @@ export default {
             rules: {
                 userName: {
                     required: true,
-                    message: "The userName cannot be empty",
+                    message: "姓名不能为空",
                     trigger: "blur"
                 },
                 password: {
                     required: true,
-                    message: "The password cannot be empty",
+                    message: "账号密码不能为空",
                     trigger: "blur"
                 },
                 img: {
                     required: true,
-                    message: "The checkcode cannot be empty",
+                    message: "验证码不能为空",
                     trigger: "blur"
                 }
             }

@@ -3,7 +3,7 @@
         <div class="login-mask"></div>
         <div class="form-wrap">
             <p>
-                <span>Admin Login</span>
+                <span>蜻蜓云广告后台</span>
             </p>
             <Form ref="forms" :model="forms" :rules="rules">
                 <FormItem prop="userName">
