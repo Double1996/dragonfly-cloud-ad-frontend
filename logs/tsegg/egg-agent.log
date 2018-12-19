@@ -1,0 +1,26 @@
+2018-12-05 11:07:37,676 INFO 9860 [egg:logger] init all loggers with options: {"dir":"/Users/double2/Code/NodeProject/bookAdmin/logs/tsegg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tsegg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2018-12-05 11:07:37,760 INFO 9860 [egg:core] dump config after load, 6ms
+2018-12-05 11:07:37,806 INFO 9860 [egg-watcher:agent] watcher start success
+2018-12-05 11:07:37,836 INFO 9860 [egg:core] dump config after ready, 3ms
+2018-12-05 11:12:51,150 INFO 14043 [egg:logger] init all loggers with options: {"dir":"/Users/double2/Code/NodeProject/bookAdmin/logs/tsegg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tsegg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2018-12-05 11:12:51,206 INFO 14043 [egg:core] dump config after load, 4ms
+2018-12-05 11:12:51,240 INFO 14043 [egg-watcher:agent] watcher start success
+2018-12-05 11:12:51,267 INFO 14043 [egg:core] dump config after ready, 2ms
+2018-12-05 11:13:19,539 INFO 14451 [egg:logger] init all loggers with options: {"dir":"/Users/double2/Code/NodeProject/bookAdmin/logs/tsegg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tsegg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2018-12-05 11:13:19,601 INFO 14451 [egg:core] dump config after load, 4ms
+2018-12-05 11:13:19,641 INFO 14451 [egg-watcher:agent] watcher start success
+2018-12-05 11:13:19,671 INFO 14451 [egg:core] dump config after ready, 3ms
+2018-12-06 10:32:22,817 INFO 12260 [egg:logger] init all loggers with options: {"dir":"/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-backend/logs/tsegg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tsegg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2018-12-06 10:32:22,878 INFO 12260 [egg:core] dump config after load, 5ms
+2018-12-06 10:32:22,917 INFO 12260 [egg-watcher:agent] watcher start success
+2018-12-06 10:32:22,945 INFO 12260 [egg:core] dump config after ready, 3ms
+2018-12-19 16:27:17,041 INFO 63503 [egg:logger] init all loggers with options: {"dir":"/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-backend/logs/tsegg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tsegg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2018-12-19 16:27:17,108 INFO 63503 [egg:core] dump config after load, 6ms
+2018-12-19 16:27:17,149 INFO 63503 [egg-watcher] Start watching: ["/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-backend/app","/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-backend/config","/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-backend/mocks","/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-backend/mocks_proxy","/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-backend/app.js"]
+2018-12-19 16:27:17,149 INFO 63503 [egg-watcher] Start watching: "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-backend/app"
+2018-12-19 16:27:17,149 INFO 63503 [egg-watcher] Start watching: "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-backend/config"
+2018-12-19 16:27:17,149 INFO 63503 [egg-watcher] Start watching: "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-backend/mocks"
+2018-12-19 16:27:17,149 INFO 63503 [egg-watcher] Start watching: "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-backend/mocks_proxy"
+2018-12-19 16:27:17,149 INFO 63503 [egg-watcher] Start watching: "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-backend/app.js"
+2018-12-19 16:27:17,150 INFO 63503 [egg-watcher:agent] watcher start success
+2018-12-19 16:27:17,172 INFO 63503 [egg:core] dump config after ready, 4ms

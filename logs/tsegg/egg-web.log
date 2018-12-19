@@ -1,0 +1,35 @@
+2018-12-05 11:13:20,178 INFO 14452 [egg:logger] init all loggers with options: {"dir":"/Users/double2/Code/NodeProject/bookAdmin/logs/tsegg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tsegg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-05 11:13:20,216 INFO 14452 [egg-schedule]: register schedule /Users/double2/Code/NodeProject/bookAdmin/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-12-05 11:13:20,216 INFO 14452 [egg-schedule]: register schedule /Users/double2/Code/NodeProject/bookAdmin/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-12-05 11:13:20,544 INFO 14452 [egg-mongoose] connecting mongodb://127.0.0.1:27017/book
+2018-12-05 11:13:20,620 INFO 14452 [egg-static] starting static serve /public/ -> /Users/double2/Code/NodeProject/bookAdmin/app/public
+2018-12-05 11:13:20,622 INFO 14452 [egg-security] use methodnoallow middleware
+2018-12-05 11:13:20,623 INFO 14452 [egg-security] use noopen middleware
+2018-12-05 11:13:20,624 INFO 14452 [egg-security] use nosniff middleware
+2018-12-05 11:13:20,624 INFO 14452 [egg-security] use xssProtection middleware
+2018-12-05 11:13:20,625 INFO 14452 [egg-security] use xframe middleware
+2018-12-05 11:13:20,625 INFO 14452 [egg-security] use dta middleware
+2018-12-05 11:13:20,625 INFO 14452 [egg-security] compose 6 middlewares into one security middleware
+2018-12-05 11:13:20,641 INFO 14452 [egg:core] dump config after load, 8ms
+2018-12-05 11:13:20,643 INFO 14452 [egg-mongoose] starting...
+2018-12-05 11:13:20,671 INFO 14452 [egg-mongoose] mongodb://127.0.0.1:27017/book connected successfully
+2018-12-05 11:13:20,673 INFO 14452 [egg-mongoose] instance[0] start successfully
+2018-12-05 11:13:20,676 INFO 14452 [egg-watcher:app] watcher start success
+2018-12-05 11:13:20,681 INFO 14452 [egg:core] dump config after ready, 3ms
+2018-12-19 16:27:17,765 INFO 63504 [egg:logger] init all loggers with options: {"dir":"/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-backend/logs/tsegg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tsegg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-19 16:27:17,803 INFO 63504 [egg-multipart] stream mode enable
+2018-12-19 16:27:17,996 INFO 63504 [egg-mongoose] connecting mongodb://127.0.0.1:27017/book
+2018-12-19 16:27:18,050 INFO 63504 [egg-static] starting static serve /public/ -> /Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-backend/app/public
+2018-12-19 16:27:18,052 INFO 63504 [egg-security] use methodnoallow middleware
+2018-12-19 16:27:18,053 INFO 63504 [egg-security] use noopen middleware
+2018-12-19 16:27:18,053 INFO 63504 [egg-security] use nosniff middleware
+2018-12-19 16:27:18,054 INFO 63504 [egg-security] use xssProtection middleware
+2018-12-19 16:27:18,054 INFO 63504 [egg-security] use xframe middleware
+2018-12-19 16:27:18,054 INFO 63504 [egg-security] use dta middleware
+2018-12-19 16:27:18,054 INFO 63504 [egg-security] compose 6 middlewares into one security middleware
+2018-12-19 16:27:18,071 INFO 63504 [egg:core] dump config after load, 8ms
+2018-12-19 16:27:18,074 INFO 63504 [egg-mongoose] starting...
+2018-12-19 16:27:18,104 INFO 63504 [egg-watcher:application] watcher start success
+2018-12-19 16:27:18,179 INFO 63504 [egg-mongoose] mongodb://127.0.0.1:27017/book connected successfully
+2018-12-19 16:27:18,180 INFO 63504 [egg-mongoose] instance[0] start successfully
+2018-12-19 16:27:18,188 INFO 63504 [egg:core] dump config after ready, 5ms

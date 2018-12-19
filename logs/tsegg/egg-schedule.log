@@ -1,0 +1,6 @@
+2018-12-05 11:13:20,689 INFO 14451 [Timer] /Users/double2/Code/NodeProject/bookAdmin/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-12-06 00:00:00.000
+2018-12-05 11:13:20,690 INFO 14451 [Timer] /Users/double2/Code/NodeProject/bookAdmin/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-12-06 00:00:01.000
+2018-12-19 16:27:17,802 INFO 63504 [egg-schedule]: register schedule /Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-backend/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-12-19 16:27:17,802 INFO 63504 [egg-schedule]: register schedule /Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-backend/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-12-19 16:27:18,195 INFO 63503 [Timer] /Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-backend/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 27161807ms at 2018-12-20 00:00:00.002
+2018-12-19 16:27:18,196 INFO 63503 [Timer] /Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-backend/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 27162805ms at 2018-12-20 00:00:01.001

@@ -5,11 +5,24 @@
   "author": "fengyao123 <1724238345@qq.com>",
   "private": true,
   "scripts": {
-    "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
-    "start": "npm run dev",
-    "build": "node build/build.js"
+    "dev:client": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
+    "dev:server": "egg-bin dev --port=8001",
+    "start": "egg-scripts start --port=8001 --daemon --title=egg-server-showcase",
+    "stop": "egg-scripts stop --title=egg-server-tsegg",
+    "build": "node build/build.js",
+    "test": "npm run lint -- --fix && npm run test-local"
   },
   "dependencies": {
+    "async-validator": "^1.8.2",
+    "captchapng": "0.0.1",
+    "egg": "^2.2.1",
+    "egg-mongoose": "^2.2.0",
+    "egg-passport": "^2.0.1",
+    "egg-scripts": "^2.5.0",
+    "egg-session": "^3.1.0",
+    "node-uuid": "^1.4.8",
+    "passport-local": "^1.0.0",
+    "uuid": "^3.2.1",
     "axios": "^0.16.2",
     "babel-polyfill": "^6.26.0",
     "cookies-js": "^1.2.3",
@@ -23,6 +36,14 @@
     "xss": "^0.3.7"
   },
   "devDependencies": {
+    "autod": "^3.0.1",
+    "autod-egg": "^1.0.0",
+    "egg-bin": "^4.3.5",
+    "egg-ci": "^1.8.0",
+    "egg-mock": "^3.14.0",
+    "eslint": "^4.11.0",
+    "eslint-config-egg": "^6.0.0",
+    "webstorm-disable-index": "^1.2.0",
     "autoprefixer": "^7.1.2",
     "babel-core": "^6.22.1",
     "babel-helper-vue-jsx-merge-props": "^2.0.3",

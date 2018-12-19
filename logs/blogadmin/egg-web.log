@@ -1,0 +1,102 @@
+2018-12-19 16:32:58,153 INFO 67512 [egg:logger] init all loggers with options: {"dir":"/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/logs/blogadmin","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"blogadmin-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-19 16:32:58,196 INFO 67512 [egg-multipart] stream mode enable
+2018-12-19 16:32:58,405 INFO 67512 [egg-mongoose] connecting mongodb://127.0.0.1:27017/book
+2018-12-19 16:32:58,454 INFO 67512 [egg-static] starting static serve /public/ -> /Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/app/public
+2018-12-19 16:32:58,456 INFO 67512 [egg-security] use methodnoallow middleware
+2018-12-19 16:32:58,457 INFO 67512 [egg-security] use noopen middleware
+2018-12-19 16:32:58,457 INFO 67512 [egg-security] use nosniff middleware
+2018-12-19 16:32:58,457 INFO 67512 [egg-security] use xssProtection middleware
+2018-12-19 16:32:58,458 INFO 67512 [egg-security] use xframe middleware
+2018-12-19 16:32:58,458 INFO 67512 [egg-security] use dta middleware
+2018-12-19 16:32:58,458 INFO 67512 [egg-security] compose 6 middlewares into one security middleware
+2018-12-19 16:32:58,472 INFO 67512 [egg:core] dump config after load, 5ms
+2018-12-19 16:32:58,474 INFO 67512 [egg-mongoose] starting...
+2018-12-19 16:32:58,525 INFO 67512 [egg-mongoose] mongodb://127.0.0.1:27017/book connected successfully
+2018-12-19 16:32:58,526 INFO 67512 [egg-mongoose] instance[0] start successfully
+2018-12-19 16:32:58,530 INFO 67512 [egg-watcher:application] watcher start success
+2018-12-19 16:32:58,538 INFO 67512 [egg:core] dump config after ready, 5ms
+2018-12-19 16:33:24,654 INFO 67846 [egg:logger] init all loggers with options: {"dir":"/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/logs/blogadmin","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"blogadmin-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-19 16:33:24,708 INFO 67846 [egg-multipart] stream mode enable
+2018-12-19 16:33:24,935 INFO 67846 [egg-mongoose] connecting mongodb://127.0.0.1:27017/book
+2018-12-19 16:33:25,010 INFO 67846 [egg-static] starting static serve /public/ -> /Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/app/public
+2018-12-19 16:33:25,013 INFO 67846 [egg-security] use methodnoallow middleware
+2018-12-19 16:33:25,014 INFO 67846 [egg-security] use noopen middleware
+2018-12-19 16:33:25,014 INFO 67846 [egg-security] use nosniff middleware
+2018-12-19 16:33:25,015 INFO 67846 [egg-security] use xssProtection middleware
+2018-12-19 16:33:25,015 INFO 67846 [egg-security] use xframe middleware
+2018-12-19 16:33:25,015 INFO 67846 [egg-security] use dta middleware
+2018-12-19 16:33:25,015 INFO 67846 [egg-security] compose 6 middlewares into one security middleware
+2018-12-19 16:33:25,031 INFO 67846 [egg:core] dump config after load, 8ms
+2018-12-19 16:33:25,035 INFO 67846 [egg-mongoose] starting...
+2018-12-19 16:33:25,129 INFO 67846 [egg-mongoose] mongodb://127.0.0.1:27017/book connected successfully
+2018-12-19 16:33:25,131 INFO 67846 [egg-mongoose] instance[0] start successfully
+2018-12-19 16:33:25,135 INFO 67846 [egg-watcher:application] watcher start success
+2018-12-19 16:33:25,149 INFO 67846 [egg:core] dump config after ready, 12ms
+2018-12-19 16:33:48,741 INFO 68257 [egg:logger] init all loggers with options: {"dir":"/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/logs/blogadmin","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"blogadmin-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-19 16:33:48,778 INFO 68257 [egg-multipart] stream mode enable
+2018-12-19 16:33:48,949 INFO 68257 [egg-mongoose] connecting mongodb://127.0.0.1:27017/book
+2018-12-19 16:33:48,996 INFO 68257 [egg-static] starting static serve /public/ -> /Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/app/public
+2018-12-19 16:33:48,998 INFO 68257 [egg-security] use methodnoallow middleware
+2018-12-19 16:33:48,999 INFO 68257 [egg-security] use noopen middleware
+2018-12-19 16:33:48,999 INFO 68257 [egg-security] use nosniff middleware
+2018-12-19 16:33:49,000 INFO 68257 [egg-security] use xssProtection middleware
+2018-12-19 16:33:49,000 INFO 68257 [egg-security] use xframe middleware
+2018-12-19 16:33:49,000 INFO 68257 [egg-security] use dta middleware
+2018-12-19 16:33:49,000 INFO 68257 [egg-security] compose 6 middlewares into one security middleware
+2018-12-19 16:33:49,012 INFO 68257 [egg:core] dump config after load, 6ms
+2018-12-19 16:33:49,014 INFO 68257 [egg-mongoose] starting...
+2018-12-19 16:33:49,068 INFO 68257 [egg-mongoose] mongodb://127.0.0.1:27017/book connected successfully
+2018-12-19 16:33:49,069 INFO 68257 [egg-mongoose] instance[0] start successfully
+2018-12-19 16:33:49,072 INFO 68257 [egg-watcher:application] watcher start success
+2018-12-19 16:33:49,081 INFO 68257 [egg:core] dump config after ready, 7ms
+2018-12-19 16:34:02,087 INFO 68367 [egg:logger] init all loggers with options: {"dir":"/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/logs/blogadmin","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"blogadmin-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-19 16:34:02,125 INFO 68367 [egg-multipart] stream mode enable
+2018-12-19 16:34:02,308 INFO 68367 [egg-mongoose] connecting mongodb://127.0.0.1:27017/book
+2018-12-19 16:34:02,369 INFO 68367 [egg-static] starting static serve /public/ -> /Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/app/public
+2018-12-19 16:34:02,371 INFO 68367 [egg-security] use methodnoallow middleware
+2018-12-19 16:34:02,371 INFO 68367 [egg-security] use noopen middleware
+2018-12-19 16:34:02,372 INFO 68367 [egg-security] use nosniff middleware
+2018-12-19 16:34:02,373 INFO 68367 [egg-security] use xssProtection middleware
+2018-12-19 16:34:02,373 INFO 68367 [egg-security] use xframe middleware
+2018-12-19 16:34:02,374 INFO 68367 [egg-security] use dta middleware
+2018-12-19 16:34:02,374 INFO 68367 [egg-security] compose 6 middlewares into one security middleware
+2018-12-19 16:34:02,388 INFO 68367 [egg:core] dump config after load, 6ms
+2018-12-19 16:34:02,391 INFO 68367 [egg-mongoose] starting...
+2018-12-19 16:34:02,462 INFO 68367 [egg-mongoose] mongodb://127.0.0.1:27017/book connected successfully
+2018-12-19 16:34:02,464 INFO 68367 [egg-mongoose] instance[0] start successfully
+2018-12-19 16:34:02,467 INFO 68367 [egg-watcher:application] watcher start success
+2018-12-19 16:34:02,477 INFO 68367 [egg:core] dump config after ready, 8ms
+2018-12-19 16:34:49,771 INFO 69028 [egg:logger] init all loggers with options: {"dir":"/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/logs/blogadmin","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"blogadmin-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-19 16:34:49,807 INFO 69028 [egg-multipart] stream mode enable
+2018-12-19 16:34:49,978 INFO 69028 [egg-mongoose] connecting mongodb://127.0.0.1:27017/book
+2018-12-19 16:34:50,030 INFO 69028 [egg-static] starting static serve /public/ -> /Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/app/public
+2018-12-19 16:34:50,032 INFO 69028 [egg-security] use methodnoallow middleware
+2018-12-19 16:34:50,032 INFO 69028 [egg-security] use noopen middleware
+2018-12-19 16:34:50,032 INFO 69028 [egg-security] use nosniff middleware
+2018-12-19 16:34:50,033 INFO 69028 [egg-security] use xssProtection middleware
+2018-12-19 16:34:50,033 INFO 69028 [egg-security] use xframe middleware
+2018-12-19 16:34:50,033 INFO 69028 [egg-security] use dta middleware
+2018-12-19 16:34:50,033 INFO 69028 [egg-security] compose 6 middlewares into one security middleware
+2018-12-19 16:34:50,045 INFO 69028 [egg:core] dump config after load, 5ms
+2018-12-19 16:34:50,047 INFO 69028 [egg-mongoose] starting...
+2018-12-19 16:34:50,078 INFO 69028 [egg-mongoose] mongodb://127.0.0.1:27017/book connected successfully
+2018-12-19 16:34:50,080 INFO 69028 [egg-mongoose] instance[0] start successfully
+2018-12-19 16:34:50,083 INFO 69028 [egg-watcher:application] watcher start success
+2018-12-19 16:34:50,094 INFO 69028 [egg:core] dump config after ready, 9ms
+2018-12-19 16:35:28,374 INFO 69482 [egg:logger] init all loggers with options: {"dir":"/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/logs/blogadmin","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"blogadmin-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2018-12-19 16:35:28,408 INFO 69482 [egg-multipart] stream mode enable
+2018-12-19 16:35:28,567 INFO 69482 [egg-mongoose] connecting mongodb://127.0.0.1:27017/book
+2018-12-19 16:35:28,614 INFO 69482 [egg-static] starting static serve /public/ -> /Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/app/public
+2018-12-19 16:35:28,616 INFO 69482 [egg-security] use methodnoallow middleware
+2018-12-19 16:35:28,617 INFO 69482 [egg-security] use noopen middleware
+2018-12-19 16:35:28,617 INFO 69482 [egg-security] use nosniff middleware
+2018-12-19 16:35:28,617 INFO 69482 [egg-security] use xssProtection middleware
+2018-12-19 16:35:28,618 INFO 69482 [egg-security] use xframe middleware
+2018-12-19 16:35:28,618 INFO 69482 [egg-security] use dta middleware
+2018-12-19 16:35:28,618 INFO 69482 [egg-security] compose 6 middlewares into one security middleware
+2018-12-19 16:35:28,629 INFO 69482 [egg:core] dump config after load, 5ms
+2018-12-19 16:35:28,631 INFO 69482 [egg-mongoose] starting...
+2018-12-19 16:35:28,680 INFO 69482 [egg-mongoose] mongodb://127.0.0.1:27017/book connected successfully
+2018-12-19 16:35:28,682 INFO 69482 [egg-mongoose] instance[0] start successfully
+2018-12-19 16:35:28,685 INFO 69482 [egg-watcher:application] watcher start success
+2018-12-19 16:35:28,692 INFO 69482 [egg:core] dump config after ready, 5ms

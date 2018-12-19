@@ -1,0 +1,338 @@
+{
+  "keys": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/config/config.default.js",
+  "auth_cookie_name": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/config/config.default.js",
+  "middleware": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/config/config.default.js",
+  "mongoose": {
+    "url": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/config/config.default.js",
+    "options": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/config/config.default.js",
+    "loadModel": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-mongoose/config/config.default.js",
+    "app": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-mongoose/config/config.default.js",
+    "agent": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-mongoose/config/config.default.js"
+  },
+  "security": {
+    "csrf": {
+      "enable": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/config/config.default.js",
+      "useSession": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-security/config/config.default.js"
+    },
+    "domainWhiteList": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-security/config/config.default.js",
+    "xframe": {
+      "enable": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "onerror": {
+    "all": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/config/config.default.js",
+    "errorPageUrl": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-onerror/config/config.default.js"
+  },
+  "multipart": {
+    "fileSize": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/config/config.default.js",
+    "mode": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "session": {
+    "maxAge": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-session/config/config.default.js"
+  },
+  "helper": {
+    "shtml": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-schedule/config/config.default.js"
+  },
+  "development": {
+    "watchDirs": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-development/config/config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-static/config/config.default.js"
+  },
+  "view": {
+    "root": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-view/config/config.default.js",
+    "mapping": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg-view/config/config.default.js"
+  },
+  "env": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+  "name": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+    "version": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+    "description": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+    "author": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+    "private": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+    "scripts": {
+      "dev:client": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "dev:server": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "start": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "stop": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "build": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "test": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js"
+    },
+    "dependencies": {
+      "async-validator": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "captchapng": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "egg": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "egg-mongoose": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "egg-passport": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "egg-scripts": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "egg-session": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "node-uuid": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "passport-local": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "uuid": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "axios": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "babel-polyfill": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "cookies-js": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "iview": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "js-sha256": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "querystring": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "velocity-animate": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "vue": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "vue-router": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "vuex": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "xss": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "autod": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "autod-egg": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "egg-bin": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "egg-ci": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "egg-mock": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "eslint": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "eslint-config-egg": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "webstorm-disable-index": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "autoprefixer": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "babel-core": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "babel-helper-vue-jsx-merge-props": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "babel-loader": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "babel-plugin-syntax-jsx": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "babel-plugin-transform-runtime": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "babel-plugin-transform-vue-jsx": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "babel-preset-env": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "babel-preset-stage-2": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "chalk": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "copy-webpack-plugin": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "css-loader": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "extract-text-webpack-plugin": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "file-loader": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "friendly-errors-webpack-plugin": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "html-webpack-plugin": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "less": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "less-loader": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "node-notifier": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "optimize-css-assets-webpack-plugin": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "ora": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "portfinder": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "postcss-import": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "postcss-loader": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "postcss-url": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "rimraf": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "semver": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "shelljs": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "uglifyjs-webpack-plugin": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "url-loader": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "vue-loader": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "vue-style-loader": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "vue-template-compiler": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "webpack": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "webpack-bundle-analyzer": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "webpack-dev-server": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "webpack-merge": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js"
+    },
+    "engines": {
+      "node": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "npm": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js"
+    },
+    "browserslist": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js"
+  },
+  "baseDir": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+    "strict": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "depth": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js"
+    }
+  },
+  "logger": {
+    "dir": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+    "env": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+    "level": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+    "logging": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "port": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Users/double2/Code/Mine/dragonfly-cloud-ad/dragonfly-cloud-ad-frontend/node_modules/egg/config/config.default.js"
+}
