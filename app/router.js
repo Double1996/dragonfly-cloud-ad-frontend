@@ -1,7 +1,7 @@
 'use strict';
 module.exports = (app) => {
     const { router, controller, middleware } = app;
-    const { category, login, users, press, book } = controller;
+    const { category, login, users, press, book, ad } = controller;
     const userRequired = middleware.userRequired();
     const userAdmin = middleware.userAdmin();
 
@@ -13,6 +13,11 @@ module.exports = (app) => {
     router.get("/api/book/record", userAdmin, book.record)
     router.get("/api/book/readingAmount", userAdmin, book.readingAmount)
 
+    // ad
+    router.post("/api/ad/create", userAdmin, ad.create);
+    router.del("/api/ad/remove", userAdmin, ad.remove);
+    router.get("/api/ad", ad.list);
+    router.post("/api/ad/update", userAdmin, ad.update)
 
     router.post("/api/category/create", userAdmin, category.create);
     router.del("/api/category/remove", userAdmin, category.remove);
